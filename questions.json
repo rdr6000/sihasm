@@ -2,124 +2,34 @@
   "response_code": 0,
   "results": [
     {
-      "category": "Entertainment: Film",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "Which of the following movies was not based on a novel by Stephen King? ",
-      "correct_answer": "The Thing",
-      "incorrect_answers": [
-        "Carrie",
-        "Misery",
-        "The Green Mile"
-      ]
+      "question": "Management level/role (Leave blank if you are worried this would identify you).",
     },
     {
-      "category": "Entertainment: Film",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?",
-      "correct_answer": "Rope",
-      "incorrect_answers": [
-        "Psycho",
-        "Vertigo",
-        "Rebecca"
-      ]
+      "question": "Were you working at this school when it was last inspected?",
     },
     {
-      "category": "Entertainment: Film",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "What is the highest grossing film of all time (without adjusting for inflation)?",
-      "correct_answer": "Avengers: Endgame",
-      "incorrect_answers": [
-        "Jurassic World",
-        "Avatar",
-        "Titanic"
-      ]
+      "question": "Do you think this school has improved since it was last inspected?",
     },
     {
-      "category": "Entertainment: Film",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "The Queen song `A Kind Of Magic` is featured in which 1986 film?",
-      "correct_answer": "Highlander",
-      "incorrect_answers": [
-        "Flash Gordon",
-        "Labyrinth",
-        "Howard the Duck"
-      ]
+      "question": "Does the staff consistently manage the behaviour of pupils well?",
     },
     {
-      "category": "Entertainment: Film",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "Who plays Alice in the Resident Evil movies?",
-      "correct_answer": "Milla Jovovich",
-      "incorrect_answers": [
-        "Madison Derpe",
-        "Milla Johnson",
-        "Kim Demp"
-      ]
+      "question": "Are the pupils’ behaviour at least good at this school?",
     },
     {
-      "category": "Entertainment: Film",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "In the 1979 British film &quot;Quadrophenia&quot; what is the name of the seaside city the mods are visiting?",
-      "correct_answer": "Brighton",
-      "incorrect_answers": [
-        "Eastbourne",
-        "Mousehole",
-        "Bridlington"
-      ]
+      "question": "Does the school deals with any cases of bullying of pupils effectively (bullying includes persistent name-calling, online or prejudice-based bullying)?",
     },
     {
-      "category": "Entertainment: Film",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "What year did the James Cameron film &quot;Titanic&quot; come out in theaters?",
-      "correct_answer": "1997",
-      "incorrect_answers": [
-        "1996",
-        "1998",
-        "1999"
-      ]
+      "question": "Do the leaders use professional development to encourage, challenge and support teachers’ improvement?",
     },
     {
-      "category": "Entertainment: Film",
-      "type": "multiple",
-      "difficulty": "easy",
-      "question": "At the end of the 2001 film &quot;Rat Race&quot;, whose concert do the contestants crash?",
-      "correct_answer": "Smash Mouth",
-      "incorrect_answers": [
-        "Bowling for Soup",
-        "Sum 41",
-        "Linkin Park"
-      ]
+      "question": "Is this school is well led and managed?",
     },
     {
-      "category": "Entertainment: Film",
-      "type": "multiple",
-      "difficulty": "hard",
-      "question": "In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?",
-      "correct_answer": "1971",
-      "incorrect_answers": [
-        "1975",
-        "1983",
-        "1969"
-      ]
+      "question": "Does this school have a culture that encourages calm and orderly conduct and is aspirational for all pupils?",
     },
     {
-      "category": "Entertainment: Film",
-      "type": "multiple",
-      "difficulty": "medium",
-      "question": "Which actor plays the character &quot;Tommy Jarvis&quot; in &quot;Friday the 13th: The Final Chapter&quot; (1984)?",
-      "correct_answer": "Corey Feldman",
-      "incorrect_answers": [
-        "Macaulay Culkin",
-        "Mel Gibson",
-        "Mark Hamill"
-      ]
+      "question": "Any other comments which you would like to make?",
     }
   ]
 }
