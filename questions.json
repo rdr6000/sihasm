@@ -2,34 +2,34 @@
   "response_code": 0,
   "results": [
     {
-      "question": "Management level/role (Leave blank if you are worried this would identify you).",
+      "question": "Management level/role (Leave blank if you are worried this would identify you)."
     },
     {
-      "question": "Were you working at this school when it was last inspected?",
+      "question": "Were you working at this school when it was last inspected?"
     },
     {
-      "question": "Do you think this school has improved since it was last inspected?",
+      "question": "Do you think this school has improved since it was last inspected?"
     },
     {
-      "question": "Does the staff consistently manage the behaviour of pupils well?",
+      "question": "Does the staff consistently manage the behaviour of pupils well?"
     },
     {
-      "question": "Are the pupils’ behaviour at least good at this school?",
+      "question": "Are the pupils’ behaviour at least good at this school?"
     },
     {
-      "question": "Does the school deals with any cases of bullying of pupils effectively (bullying includes persistent name-calling, online or prejudice-based bullying)?",
+      "question": "Does the school deals with any cases of bullying of pupils effectively (bullying includes persistent name-calling, online or prejudice-based bullying)?"
     },
     {
-      "question": "Do the leaders use professional development to encourage, challenge and support teachers’ improvement?",
+      "question": "Do the leaders use professional development to encourage, challenge and support teachers’ improvement?"
     },
     {
-      "question": "Is this school is well led and managed?",
+      "question": "Is this school is well led and managed?"
     },
     {
-      "question": "Does this school have a culture that encourages calm and orderly conduct and is aspirational for all pupils?",
+      "question": "Does this school have a culture that encourages calm and orderly conduct and is aspirational for all pupils?"
     },
     {
-      "question": "Any other comments which you would like to make?",
+      "question": "Any other comments which you would like to make?"
     }
   ]
 }
